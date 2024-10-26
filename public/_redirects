@@ -1,0 +1,4 @@
+# Netlify redirects file
+/*    /index.html   200
+http://phonewatereject.com/* https://phonewatereject.com/:splat 301!
+http://www.phonewatereject.com/* https://phonewatereject.com/:splat 301!
